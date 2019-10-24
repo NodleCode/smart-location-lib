@@ -2,9 +2,9 @@ package io.nlopez.smartlocation.geofencing;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import android.support.annotation.NonNull;
-import android.support.annotation.VisibleForTesting;
 
+import androidx.annotation.NonNull;
+import androidx.annotation.VisibleForTesting;
 import io.nlopez.smartlocation.common.Store;
 import io.nlopez.smartlocation.geofencing.model.GeofenceModel;
 

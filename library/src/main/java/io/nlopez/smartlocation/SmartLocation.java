@@ -2,8 +2,6 @@ package io.nlopez.smartlocation;
 
 import android.content.Context;
 import android.location.Location;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 
 import com.google.android.gms.location.DetectedActivity;
 
@@ -11,6 +9,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.WeakHashMap;
 
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import io.nlopez.smartlocation.activity.ActivityProvider;
 import io.nlopez.smartlocation.activity.config.ActivityParams;
 import io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider;

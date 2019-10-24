@@ -1,7 +1,7 @@
 package io.nlopez.smartlocation.location.providers;
 
-import android.support.annotation.NonNull;
 
+import androidx.annotation.NonNull;
 import io.nlopez.smartlocation.location.LocationProvider;
 import io.nlopez.smartlocation.location.ServiceLocationProvider;
 import io.nlopez.smartlocation.utils.ServiceConnectionListener;

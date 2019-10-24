@@ -2,10 +2,10 @@ package io.nlopez.smartlocation.location.providers;
 
 import android.content.Context;
 import android.location.Location;
-import android.support.annotation.NonNull;
 
 import com.google.android.gms.location.DetectedActivity;
 
+import androidx.annotation.NonNull;
 import io.nlopez.smartlocation.OnActivityUpdatedListener;
 import io.nlopez.smartlocation.OnLocationUpdatedListener;
 import io.nlopez.smartlocation.activity.config.ActivityParams;
